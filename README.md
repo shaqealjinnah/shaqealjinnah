@@ -4,7 +4,7 @@ Hi 👋 I'm Shaqeal
 Frontend Developer
 ------------------
 
-I'm a frontend developer of 2 years and am looking for new opportunities.
+I'm an experienced frontend developer looking for new opportunities.
 
 * 🌍  I'm based in Melbourne
 * 🖥️  See my portfolio at [shaqealjinnah.com](http://shaqealjinnah.com)
